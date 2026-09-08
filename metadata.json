@@ -1,0 +1,6 @@
+{
+  "name": "Research Student Funding Pipeline",
+  "description": "Automated data pipeline and centralized database manager for Federal Work Study and Grant research funding applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
